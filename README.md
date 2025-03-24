@@ -67,11 +67,3 @@ Contributions are welcome! If you find bugs, improvements or have new ideas, fee
 
 We hope you enjoy playing Tetris as much as we enjoyed creating it. Have fun, and good luck with your games!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="[https://www.linkedin.com/in/david-gonz%C3%A1lez-tamayo/](https://www.linkedin.com/in/daniel-toomaz-rukina/)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" alt="Linkedin" width="40" height="40"/>
-  </a>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-</p>
